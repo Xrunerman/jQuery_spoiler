@@ -1,0 +1,28 @@
+.spoiler{
+	width: 60%;
+	margin: auto;
+}
+.spoiler-box{
+	border: 1px solid #ccc;
+	margin-bottom: 1em;
+}
+.spoiler-box > div{
+	padding: 0.5em;
+}
+.spoiler-heading{
+	background-color: #eee;
+}
+.spoiler-content{
+	display: none;
+}
+.spoiler-heading h4{
+	display: inline-block;
+	margin: 0;
+	padding: 0;
+}
+.spoiler-heading span{
+	float: right;
+}
+.spoiler-content-hide{
+	display: block;
+}
